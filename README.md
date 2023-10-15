@@ -1,2 +1,2 @@
 # Calculator
-![Alt text](./Calculator/blob/master/Calculator_Screenshot.png "Screenshot")
+![Alt text](https://github.com/LeeTaylor-git/Calculator/blob/master/Calculator_Screenshot.png "Screenshot")
