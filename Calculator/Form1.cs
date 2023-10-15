@@ -21,5 +21,10 @@ namespace Calculator
 		{
 
 		}
+
+		private void Num2_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
